@@ -1,0 +1,16 @@
+{
+  "name": "bin-fs",
+  "version": "0.0.0",
+  "description": "Common File System Operations",
+  "author": {
+    "name": "Jacob Groundwater",
+    "email": "groundwater@gmail.com"
+  },
+  "license": "MIT",
+  "bin": {
+    "rm": "rm.js",
+    "cp": "cp.js",
+    "ln": "ln.js",
+    "mv": "mv.js"
+  }
+}
