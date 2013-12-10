@@ -7,10 +7,7 @@
     "email": "groundwater@gmail.com"
   },
   "license": "MIT",
-  "bin": {
-    "rm": "rm.js",
-    "cp": "cp.js",
-    "ln": "ln.js",
-    "mv": "mv.js"
+  "directories": {
+    "bin": "./bin"
   }
 }
