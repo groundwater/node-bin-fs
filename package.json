@@ -9,5 +9,8 @@
   "license": "MIT",
   "directories": {
     "bin": "./bin"
+  },
+  "dependencies": {
+    "optimist": "~0.6.0"
   }
 }
