@@ -1,6 +1,6 @@
 {
   "name": "bin-fs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Common File System Operations",
   "author": {
     "name": "Jacob Groundwater",
