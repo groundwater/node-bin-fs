@@ -15,6 +15,7 @@ $ npkg install bin-fs
 ```
 ls [DIR]
 rm FILE
+cat FILE
 mv SOURCE DESTN
 ```
 
